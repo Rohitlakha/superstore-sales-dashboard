@@ -41,7 +41,7 @@ This repository contains an interactive Power BI dashboard project analyzing Sup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rohitlakha/superstore-sales-dashboard.git```
+   git clone https://github.com/Rohitlakha/superstore-sales-dashboard.git
 
 2. Open the .pbix file in Power BI Desktop.
 
