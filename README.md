@@ -51,7 +51,8 @@ This repository contains an interactive Power BI dashboard project analyzing Sup
 
 ---
 
-## ✍️ Author
-Rohit Lakha
+## 📬 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rohit-lakha/) 
 
 Feel free to fork or contribute. Star 🌟 if you like it!
