@@ -11,7 +11,6 @@ This repository contains an interactive Power BI dashboard project analyzing Sup
 - **assets/** – Contains dashboard images/snapshots.
 - **data/** – Source dataset used in this project.
 - **pbix/** – Power BI (.pbix) project file.
-- **docs/** – (Optional) Includes process documentation or insights.
 - **README.md** – Project overview and instructions.
 
 ---
@@ -49,10 +48,6 @@ This repository contains an interactive Power BI dashboard project analyzing Sup
 3. Load data from the data/superstore_sales_data.xlsx.
 
 4. Explore, interact, or enhance the dashboard as needed.
-
----
-## 📽️ Video Demo
-Watch the full walkthrough on YouTube: Dashboard Demo
 
 ---
 
