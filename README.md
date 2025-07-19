@@ -2,7 +2,11 @@
 
 This repository contains an interactive Power BI dashboard project analyzing SuperStore sales performance. The goal of this dashboard is to help understand business performance across different categories, regions, segments, and more.
 
-![Dashboard Screenshot](./assets/dashboard-screenshot.png)
+![Dashboard Screenshot](./assets/Super Store Sales Dashboard.png)
+
+---
+
+![Dashboard Screenshot](./assets/Super Store Sales Forecast.png)
 
 ---
 
